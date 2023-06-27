@@ -1,0 +1,28 @@
+METADATA.FEATURE,What other information would you like to obtain to better assess the truthfulness of an article?,What functionality would be a good addition?,What criteria do you usually use to judge whether a news/article is reliable?,You stated that the system is not helpful for your everyday work. Why?
+basic,specific chunks of text AI thinks is reliable/fake; quick fact checking if people-organizations-issues match; more criteria than source for the reliability-score,"more criteria, specific information on how the AI works, rating based on specific chunks of text not the text as a whole (which may always contain bits of truth along with fakes)",prior knowledge; specific agenda talking points of interested groups; quick check if people mentioned match with organisations they're being connected with; source,"assessments not consistent; if source and date is the only data used for assessment this a) is not enough b) not helpful because it takes me 2 secs to check this the ""old"" way myself :)"
+free-text,author,Links to other sources that consider the topic,common sense,
+basic,Name of the news organisation,Not sure,Reputation of media organisation,Because it cannot correctly identify fake news
+salient,related news from other sources,show related news from other sources,"Source, my own knowledge or opinion, wording, probability",
+free-text,More than one source to substantiate to the truth content,More information about who built AI and how it works.,Use more sources,I would need to find out who built AI and understand if it is trustworthy. That's more work.
+free-text,Other sources like website articles,--,the language which is used,
+basic,"the AI System needs to explain why it makes the decision, on what sources is the decision based besides the date and the source. Maybe something like grammar or hatespeech?","grammar check, hate speech check ",double check the source and check if that information is already in other news outlets,
+free-text,How the system get the infos for the natural language explanation,"Needs to be more clear why the system decides like this, I don't know where the system get the information from the natural languag explanation. Maybe one can add the sources for this summary",Sources and grammar,
+salient,"the author not only the source, maybe a lik to the origin article","something like a comment section, if it should be used in an professional env. So one can share knowledge about the topics with colleagues",sources,
+free-text,shared/liked by whom,by whom has it been shared,source,
+basic,Grammar checking ,More explanation why the news is fake or true. Source and date are not enough,where i found the information ,
+basic,No idea,No idea,source,
+free-text,No idea,No idea,?,
+salient,Author,Author,Author,
+basic,author and maybe more Background information about the source,"author, more explanation why the source ist trustworthy or not",source,
+salient,"author, more information why the source is truthfull or nor",author,"source, grammar",
+salient,Other article to compare,Proof,Sense,
+salient,fact check,checking for related articles,"speech, source, wording, cross references",
+free-text,Name of the author,Get more reliable sources displayed on the same topic,"Information about the source,  Publishing date, different sources ",
+free-text,Offical Ranking / Batch,-,authors further texts,
+basic,1) more hints about the fake news the article contains 2) more background information about the subject of the article.,more detailed background informations about the article,1) if the information is coherent and makes sense in the end 2) is the article written in a very emotional way or are the provided informations fact based,
+salient,some kind of page rank – what sources do link to this article?,"First, it should work better, in general. A concrete feature could be to provide links the the named sources (the 30x30 land grab criticizers; the boys awareness group).",my common sense. the source. and the tone (is it neutral or stagily/raging).,Because it presented false results to me.
+free-text,the source is most important,no idea,Information about the source,
+salient,Date of origin,-,Source,
+free-text,no idea,no idea,publishing date ,
+salient,Has the source been edited or peer-reviewed,?,Source,
+salient,alternative sources/ articles,not sure,source research,
